@@ -1,0 +1,2 @@
+
+prompt('nhập password');
